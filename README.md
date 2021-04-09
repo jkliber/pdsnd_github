@@ -6,9 +6,8 @@
 
 ### The Bikeshare project provides information from 3 different cities
 
-### Files used
-Include the files used
+### BikeShare.py and Chicago, Washington, and New York City csv files
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Credit goes to Udacity Data Science class.
+
 
