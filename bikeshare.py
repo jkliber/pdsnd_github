@@ -28,7 +28,7 @@ def get_filters():
     # TO DO: get user input for month (all, january, february, ... , june)
     month = input("Which month would you like to look at?  January, February, March, April, May, June  or All\n").lower()
     while month not in ["january", "february","march", "april", "may", "june", "all"]:
-        print("You did not type the correct month, please try again.")
+        print("You mistyped typed the month, please try again.")
         month = input("Which month would you like to look at?  January, February, March, April, May, June  or All\n").lower()
     print("You selected: " + str.capitalize(month))
     
