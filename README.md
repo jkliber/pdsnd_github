@@ -2,11 +2,9 @@
 
 ### Date created 4/9/2021
 
-### Project Title
-Replace the Project Title
+### Bikeshare
 
-### Description
-Describe what your project is about and what it does
+### The Bikeshare project provides information from 3 different cities
 
 ### Files used
 Include the files used
